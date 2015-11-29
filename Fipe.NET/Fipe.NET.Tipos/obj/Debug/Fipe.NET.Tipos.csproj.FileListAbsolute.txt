@@ -1,0 +1,4 @@
+E:\Projetos\Projetos C#\Visual Studio 2012\Projects\Fipe.NET\Fipe.NET.Tipos\bin\Debug\RenanBarbosa.Fipe.NET.Tipos.dll
+E:\Projetos\Projetos C#\Visual Studio 2012\Projects\Fipe.NET\Fipe.NET.Tipos\bin\Debug\RenanBarbosa.Fipe.NET.Tipos.pdb
+E:\Projetos\Projetos C#\Visual Studio 2012\Projects\Fipe.NET\Fipe.NET.Tipos\obj\Debug\RenanBarbosa.Fipe.NET.Tipos.dll
+E:\Projetos\Projetos C#\Visual Studio 2012\Projects\Fipe.NET\Fipe.NET.Tipos\obj\Debug\RenanBarbosa.Fipe.NET.Tipos.pdb
